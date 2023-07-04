@@ -1,5 +1,6 @@
 # Find-the-correct-letter
 Find-the-correct-letter
+![image](https://github.com/choimyeongsu/Find-the-correct-letter/assets/99162434/a88e581d-14df-48e4-8cc7-5592355e7afb)
 
 -----
 📝 게임설명
